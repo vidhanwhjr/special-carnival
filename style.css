@@ -1,0 +1,18 @@
+.copy_right_footer{
+        position: fixed;
+        bottom: 0px;
+        background-color: black;
+        width: 100%;
+        color: yellow;
+        letter-spacing: 5px;
+        height: 50px;
+        font-size: 15px;
+        
+}
+
+body{
+    background-image: url(bg.jpg);
+    background-size: cover;
+    color: white;
+    
+}
